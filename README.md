@@ -22,8 +22,8 @@ The objective is to train regression models and evaluate them using the **averag
 #Methods
 - Feature selection using **mean** and **variance** analysis  
 - Models tested:
-  - 🌲 **Random Forest Regression**  
-  - 📐 **Ridge Regression**  
+  - **Random Forest Regression**  
+  - **Ridge Regression**  
 - Hyperparameter tuning via **grid search**
 
 #Results
